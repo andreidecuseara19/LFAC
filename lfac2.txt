@@ -1,0 +1,19 @@
+
+natural abc
+main ()
+{  
+    natural a
+    real b
+    caracter c
+    sir s
+    boolean b
+
+    a = 2
+    a = 3
+    b = 4.2
+    c = 'a'
+    s = "abc"
+    b = true
+    b = false
+
+}
