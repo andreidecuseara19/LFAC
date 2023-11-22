@@ -1,3 +1,7 @@
+/*README
+Yacc token parser that compiles C-like user provided code
+*/
+
 %{
 #include <stdio.h>
 #include <string.h>
