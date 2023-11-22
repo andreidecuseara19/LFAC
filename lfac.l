@@ -1,3 +1,10 @@
+/* README
+Flex code that defines a lexer for a programming language. It recognizes various tokens, including keywords, identifiers, numbers, strings, 
+and characters, and generates corresponding tokens for further processing by a parser implemented using Yacc.
+*/
+
+
+
 %{
 #include <stdio.h>
 #include "y.tab.h"
